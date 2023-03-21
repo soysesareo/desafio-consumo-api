@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(192, 216, 216);
+    margin-left: 55px;
+    margin-right: 45px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container-buscador {
+    /* background-color: aquamarine; */
+    display: flex;
+}
+
+.input {
+    border-radius: 1%;
+}
+
+.buscador {
+    margin-right: 15px;
+
+}
+
+.footer {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.hr {
+    width: 97%;
+}
